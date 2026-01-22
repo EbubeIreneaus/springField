@@ -60,7 +60,7 @@ const send_feedback = async (e) => {
                                 <h4 class="text-2xl my-5">+1 201 574 9800</h4>
                                 <hr class="w-50"> <br>
                                 <p>Mail us:</p>
-                                <h4 class="text-2xl my-5">springfieldinvesment@gmail.com</h4>
+                                <h4 class="text-2xl my-5">springfieldinvest.com@gmail.com</h4>
                                 <hr>
 
                             </div>
